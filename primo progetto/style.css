@@ -1,0 +1,85 @@
+body{
+  background-image: url('https://epilot.eu/storage/blogImages/4ShVVpkjXjf9UuwdBRAmfb25Hf41dasgSHSNWLXE.jpeg');
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+.container{
+  width: 500px;
+  border-radius: 10px;
+  margin: auto;
+  background:black; color:white; opacity: 0.9
+
+
+}
+
+.logo{
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.titolo{
+  font-style: italic;
+  width: 500px;
+  color: green;
+  font-size: 25pt;
+  text-align: center
+
+
+}
+
+.bottoni{
+
+  background-color: green;
+  padding: 40px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#titoletto{
+  display: inline-block;
+}
+
+.info{
+  font-size: 14pt;
+}
+
+#stato{
+  font-size: 13.5pt;
+}
+
+#riga{
+
+  background-color: yellow;
+  border-color: black;
+  margin-left: 0px;
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+}
+
+#riga2{
+
+  background-color: green;
+  border-color: black;
+  margin-left: 0px;
+  border-radius: 10px;
+  width: 450px;
+  height: 30px;
+}
+
+#riga3{
+
+  background-color: red;
+  border-color: black;
+  margin-left: 0px;
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+}
